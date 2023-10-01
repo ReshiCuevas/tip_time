@@ -18,4 +18,5 @@ Además el layout no quedó exactamente igual pero creo que hice ajustes para qu
 # App Screenshot
 <img src="screenshots/tip_screen.JPG" width="240" height="480" />
 # Link a video funcionando
+
 https://www.youtube.com/shorts/SL_6MLS4A-8
